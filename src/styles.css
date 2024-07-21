@@ -127,7 +127,7 @@ img.socialIcon {
 /* add an amazing animation to the social icons */
 /* with scale */
 /* and animation iterarion count */
-.socialIcon:hover {
+img.socialIcon:hover {
   animation: bounce 0.5s;
   animation-iteration-count: infinite;
 }
